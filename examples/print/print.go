@@ -6,7 +6,7 @@
 /* This example demonstrates the use of the print function. */
 package main
 
-import gc "github.com/eric/goncurses"
+import gc "github.com/ericm/goncurses"
 
 func main() {
 	stdscr, _ := gc.Init()

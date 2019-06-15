@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 package main
 
-import gc "github.com/eric/goncurses"
+import gc "github.com/ericm/goncurses"
 
 func main() {
 	stdscr, err := gc.Init()

@@ -8,7 +8,7 @@
 package main
 
 import (
-	"github.com/eric/goncurses"
+	"github.com/ericm/goncurses"
 	"log"
 )
 

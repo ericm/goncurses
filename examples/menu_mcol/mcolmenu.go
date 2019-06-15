@@ -7,7 +7,7 @@
  * ncurses examples from TLDP */
 package main
 
-import gc "github.com/eric/goncurses"
+import gc "github.com/ericm/goncurses"
 
 const (
 	HEIGHT = 10
