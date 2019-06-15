@@ -1,3 +1,6 @@
+# goncurses 
+## Fixed for Go v1.12.
+
 Overview
 --------
 Goncurses is an ncurses library for the Go programming language. It
