@@ -12,7 +12,7 @@ package main
 
 import (
 	"flag"
-	gc "github.com/rthornton128/goncurses"
+	gc "github.com/eric/goncurses"
 	"log"
 	"os"
 )
